@@ -1,0 +1,2 @@
+# repositoriox
+Solución informatica
